@@ -1,0 +1,29 @@
+# --- data & model artefacts (large / not redistributable) ---
+*.slf
+*.nc
+*.tif
+*.tiff
+*.zip
+*.geo
+*.cli
+*.cas
+data/**
+!data/README.md
+~/haine_layer2/
+~/haine_layer3/
+*.joblib
+
+# --- python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+telemac/
+
+# --- os / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+runtime-*/

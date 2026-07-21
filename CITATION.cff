@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "HAINE: Hybrid AI-Numerical Engine for Dredging Assessment"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Subramaniam Sankar"
+    given-names: "Pranahv"
+    affiliation: "BITS Pilani; Maritime Research Centre (MRC) / FUDA, Pune"
+version: "0.1.0"
+date-released: "2026-06"
+license: MIT
+keywords: [dredging, siltation, TELEMAC, satellite remote sensing, machine learning, Cochin Port]
